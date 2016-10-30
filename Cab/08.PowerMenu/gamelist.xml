@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./shutdown.sh</path>
+		<name>Shutdown</name>
+		<image>~/.emulationstation/downloaded_images/power/shutdown.png</image>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed></lastplayed>
+	</game>
+	<game>
+		<path>./reboot.sh</path>
+		<name>Restart</name>
+		<image>~/.emulationstation/downloaded_images/power/reboot.png</image>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed></lastplayed>
+	</game>
+</gameList>
