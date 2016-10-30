@@ -1,6 +1,6 @@
 ## 06. TimeZone
 
-AUTOSET_HOME=/home/pi/AutoSet
+AUTOSET_HOME=/home/pi/Retropie-AutoSet
 
 echo "Asia/Seoul" > /etc/timezone
 cp /usr/share/zoneinfo/ROK /etc/localtime

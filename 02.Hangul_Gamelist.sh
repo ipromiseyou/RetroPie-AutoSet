@@ -1,6 +1,6 @@
 ## 02. Hangul Gamelist
 
-AUTOSET_HOME=/home/pi/AutoSet
+AUTOSET_HOME=/home/pi/Retropie-AutoSet
 
 cp $AUTOSET_HOME/Cab/02.Hangul_Gamelist/gamelist_mame.tgz /home/pi/RetroPie/roms/fba
 cd /home/pi/RetroPie/roms/fba
