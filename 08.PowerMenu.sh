@@ -1,7 +1,7 @@
 ## 08. Power Menu
 # Use RetroPie Power Menu v2 by Steve Smith (https://youtu.be/K1za6L7nv2U)
 
-AUTOSET_HOME=/home/pi/Retropie-AutoSet
+AUTOSET_HOME=/home/pi/RetroPie-AutoSet
 
 # Get Current Theme
 if [ -f /home/pi/.emulationstation/es_settings.cfg ]
