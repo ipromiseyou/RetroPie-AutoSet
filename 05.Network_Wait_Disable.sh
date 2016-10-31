@@ -1,6 +1,6 @@
 ## 05. Wait for Network at Boot DISABLE
 
-AUTOSET_HOME=/home/pi/Retropie-AutoSet
+AUTOSET_HOME=/home/pi/RetroPie-AutoSet
 
 rm /etc/systemd/system/dhcpcd.service.d/wait.conf
 
