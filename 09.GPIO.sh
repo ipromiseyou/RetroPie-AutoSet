@@ -1,6 +1,6 @@
 ## 07. GPIO Setting
 
-AUTOSET_HOME=/home/pi/Retropie-AutoSet
+AUTOSET_HOME=/home/pi/RetroPie-AutoSet
 
 sudo apt-get update
 sudo apt-get -qy upgrade
