@@ -1,6 +1,6 @@
 ## 03. Custom bashrc
 
-AUTOSET_HOME=/home/pi/Retropie-AutoSet
+AUTOSET_HOME=/home/pi/RetroPie-AutoSet
 
 cp /home/pi/.bashrc /home/pi/.bashrc.org
 cp $AUTOSET_HOME/Cab/03.Bashrc/.bashrc /home/pi
