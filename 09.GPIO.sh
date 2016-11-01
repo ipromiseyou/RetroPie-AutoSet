@@ -2,8 +2,8 @@
 
 AUTOSET_HOME=/home/pi/RetroPie-AutoSet
 
-sudo apt-get update
-sudo apt-get -qy upgrade
+#sudo apt-get update
+#sudo apt-get -qy upgrade
 sudo apt-get install -y --force-yes dkms cpp-4.7 gcc4.7 git joystick
 wget http://www.niksula.hut.fi/~mhiienka/Rpi/linux-headers-rpi/linux-headers-`uname -r`_`uname -r`-2_armhf.deb
 sudo dpkg -i linux-headers-`uname -r`_`uname -r`-2_armhf.deb
