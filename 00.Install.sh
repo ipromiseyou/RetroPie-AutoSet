@@ -1,4 +1,4 @@
-cd /home/pi/Retropie-AutoSet
+cd /home/pi/RetroPie-AutoSet
 chmod 755 *sh
 ./01.Localization.sh
 sleep 1
